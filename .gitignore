@@ -17,3 +17,4 @@ pom.xml.next
 release.properties
 *.jar
 
+/.metadata/
